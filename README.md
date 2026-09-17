@@ -1,14 +1,14 @@
 # TP1 DPBO - Manajemen Data Bioskop
 
-Nama  : (isi nama kamu)
-NPM   : (isi NPM kamu)
-Kelas : (isi kelas kamu)
+Nama  : Ariq Ahmad Fathir
+NIM   : 2506752
+Kelas : C2
 
 ## Janji
 
-Saya (isi nama), NPM (isi NPM), berjanji tugas ini saya kerjakan sendiri
-tanpa titip/copy paste punya orang lain. Kalau ternyata ketahuan curang, saya
-siap terima konsekuensinya.
+Saya Ariq Ahmad Fathir dengan NIM 2506752 mengerjakan TP 1 DPBO 2026 C2 dalam mata kuliah 
+Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya, maka saya tidak melakukan 
+kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Tentang programnya
 
@@ -62,7 +62,7 @@ php -S localhost:8000
 ```
 terus buka `http://localhost:8000/index.php` di browser.
 
-## Flow programnya gimana
+## Flow programnya 
 
 Buat yang CLI (C++/Java/Python) semuanya mirip, ada menu looping terus
 sampe user pilih keluar:
@@ -93,17 +93,6 @@ Buat versi PHP-nya agak beda karena web, jadi:
   ke atribut gambar
 - Tambah/update lewat form HTML biasa, hapus & cari lewat link doang
   (action=hapus&id=... / action=cari&keyword=...)
-
-## Yang sempet aku benerin
-
-Pas nyoba compile di Java awalnya kena error "variable pilihan might not
-have been initialized" di bagian main, gara-gara variabel pilihan-nya cuma
-dideklarasi tanpa nilai awal terus dipake buat while-loop kondisinya. Aku
-kasih nilai awal -1 dan langsung beres.
-
-Selain itu udah dicoba compile & run semua bahasanya (C++, Java, Python)
-dan udah dites juga alur CRUD di PHP-nya (tambah pake upload gambar,
-tampil, cari, update, hapus), semuanya jalan normal.
 
 ## Dokumentasi
 
