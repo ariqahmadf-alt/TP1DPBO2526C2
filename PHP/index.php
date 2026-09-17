@@ -250,7 +250,6 @@ $dataTampil = $hasilCari !== null ? $hasilCari : $_SESSION['daftar_film'];
 </head>
 <body>
     <h1>🎬 Manajemen Data Bioskop</h1>
-    <p>Asprak 16 DPBO - Tugas Praktikum OOP &amp; Encapsulation</p>
 
     <?php if (isset($_GET['pesan'])): ?>
         <p class="pesan"><?= htmlspecialchars($_GET['pesan']) ?></p>
