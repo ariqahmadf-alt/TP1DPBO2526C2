@@ -104,73 +104,85 @@ Buat versi PHP-nya agak beda karena web, jadi:
 
 ## Dokumentasi
 
-### C++
+<details>
+<summary><b>C++</b> (klik buat lihat)</summary>
 
 **Run + Tambah Data**
-![Tambah Data C++](Dokumentasi/CPP/run+ADD.png)
+<img src="Dokumentasi/CPP/run+ADD.png" width="600">
 
 **Tampilkan Data**
-![Tampilkan Data C++](Dokumentasi/CPP/tampil.png)
+<img src="Dokumentasi/CPP/tampil.png" width="600">
 
 **Update Data**
-![Update Data C++](Dokumentasi/CPP/update.png)
+<img src="Dokumentasi/CPP/update.png" width="600">
 
 **Hapus Data**
-![Hapus Data C++](Dokumentasi/CPP/hapus.png)
+<img src="Dokumentasi/CPP/hapus.png" width="600">
 
 **Cari Data**
-![Cari Data C++](Dokumentasi/CPP/cari.png)
+<img src="Dokumentasi/CPP/cari.png" width="600">
 
-### Java
+</details>
+
+<details>
+<summary><b>Java</b> (klik buat lihat)</summary>
 
 **Run + Tambah Data**
-![Tambah Data Java](Dokumentasi/Java/run+ADD.png)
+<img src="Dokumentasi/Java/run+ADD.png" width="600">
 
 **Tampilkan Data**
-![Tampilkan Data Java](Dokumentasi/Java/tampil.png)
+<img src="Dokumentasi/Java/tampil.png" width="600">
 
 **Update Data**
-![Update Data Java](Dokumentasi/Java/update.png)
+<img src="Dokumentasi/Java/update.png" width="600">
 
 **Hapus Data**
-![Hapus Data Java](Dokumentasi/Java/hapus.png)
+<img src="Dokumentasi/Java/hapus.png" width="600">
 
 **Cari Data**
-![Cari Data Java](Dokumentasi/Java/cari.png)
+<img src="Dokumentasi/Java/cari.png" width="600">
 
-### Python
+</details>
+
+<details>
+<summary><b>Python</b> (klik buat lihat)</summary>
 
 **Run + Tambah Data**
-![Tambah Data Python](Dokumentasi/Python/run+ADD.png)
+<img src="Dokumentasi/Python/run+ADD.png" width="600">
 
 **Tampilkan Data**
-![Tampilkan Data Python](Dokumentasi/Python/tampil.png)
+<img src="Dokumentasi/Python/tampil.png" width="600">
 
 **Update Data**
-![Update Data Python](Dokumentasi/Python/update.png)
+<img src="Dokumentasi/Python/update.png" width="600">
 
 **Hapus Data**
-![Hapus Data Python](Dokumentasi/Python/hapus.png)
+<img src="Dokumentasi/Python/hapus.png" width="600">
 
 **Cari Data**
-![Cari Data Python](Dokumentasi/Python/cari.png)
+<img src="Dokumentasi/Python/cari.png" width="600">
 
-### PHP
+</details>
+
+<details>
+<summary><b>PHP</b> (klik buat lihat)</summary>
 
 **Run + Tambah Data**
-![Run PHP](Dokumentasi/PHP/run1.png)
-![Tampilan Web](Dokumentasi/PHP/run2.png)
-![Tambah Data PHP](Dokumentasi/PHP/add.png)
+<img src="Dokumentasi/PHP/run1.png" width="600">
+<img src="Dokumentasi/PHP/run2.png" width="600">
+<img src="Dokumentasi/PHP/add.png" width="600">
 
 **Tampilkan Data**
-![Tampilkan Data PHP](Dokumentasi/PHP/tampil.png)
+<img src="Dokumentasi/PHP/tampil.png" width="600">
 
 **Update Data**
-![Update Data PHP](Dokumentasi/PHP/update.png)
+<img src="Dokumentasi/PHP/update.png" width="600">
 
 **Hapus Data**
-![Tanda Hapus Data](Dokumentasi/PHP/hapus1.png)
-![Data Terhapus](Dokumentasi/PHP/hapus2.png)
+<img src="Dokumentasi/PHP/hapus1.png" width="600">
+<img src="Dokumentasi/PHP/hapus2.png" width="600">
 
 **Cari Data**
-![Cari Data PHP](Dokumentasi/PHP/cari.png)
+<img src="Dokumentasi/PHP/cari.png" width="600">
+
+</details>
