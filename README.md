@@ -1,13 +1,13 @@
 # TP1 DPBO - Manajemen Data Bioskop
 
-Nama  : Ariq Ahmad Fathir
-NIM   : 2506752
+Nama : Ariq Ahmad Fathir
+NIM : 2506752
 Kelas : C2
 
 ## Janji
 
-Saya Ariq Ahmad Fathir dengan NIM 2506752 mengerjakan TP 1 DPBO 2026 C2 dalam mata kuliah 
-Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya, maka saya tidak melakukan 
+Saya Ariq Ahmad Fathir dengan NIM 2506752 mengerjakan TP 1 DPBO 2026 C2 dalam mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya, maka saya tidak melakukan
 kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Tentang programnya
@@ -18,6 +18,7 @@ Jadi disini aku bikin program buat ngatur data film di bioskop, pake OOP
 PHP (web).
 
 Atribut yang ada di class Film:
+
 - id (buat identifier tiap film, auto increment, gabisa diubah)
 - judul
 - genre
@@ -36,6 +37,7 @@ cari data.
 ## Cara jalaninnya
 
 C++:
+
 ```
 cd CPP
 g++ -std=c++17 -o bioskop Bioskop.cpp
@@ -43,6 +45,7 @@ g++ -std=c++17 -o bioskop Bioskop.cpp
 ```
 
 Java:
+
 ```
 cd Java
 javac Main.java
@@ -50,22 +53,26 @@ java Main
 ```
 
 Python:
+
 ```
 cd Python
 python3 main.py
 ```
 
 PHP (harus lewat server, ga bisa dibuka langsung dari file):
+
 ```
 cd PHP
 php -S localhost:8000
 ```
+
 terus buka `http://localhost:8000/index.php` di browser.
 
-## Flow programnya 
+## Flow programnya
 
 Buat yang CLI (C++/Java/Python) semuanya mirip, ada menu looping terus
 sampe user pilih keluar:
+
 1. Tambah -> user input judul/genre/durasi/harga/path gambar, terus
    dibikinin object Film baru pake constructor, id-nya otomatis nambah
    sendiri, masuk ke array/list.
@@ -79,16 +86,17 @@ sampe user pilih keluar:
 5. Cari -> masukin id, ditampilin kalo ketemu.
 
 Buat versi PHP-nya agak beda karena web, jadi:
+
 - Film.php isi class-nya doang (constructor + getter setter)
 - index.php itu yang jadi "otaknya", ngatur mau tambah/update/hapus/cari,
   sekalian nampilin HTML-nya juga di file yang sama
-- Data disimpen di $_SESSION, bukan database (sesuai suruhan di soal). Jadi
+- Data disimpen di $\_SESSION, bukan database (sesuai suruhan di soal). Jadi
   kalo session-nya abis/browser ditutup ya datanya ilang, itu emang
   sengaja karena ga boleh pake database
 - Yang agak tricky itu class Film harus di-require SEBELUM session_start(),
   soalnya kalo kebalik php bakal gagal pas mau baca ulang object Film yang
   udah kesimpen di session sebelumnya (jadi error / datanya rusak)
-- Buat gambar, dipake $_FILES + move_uploaded_file() buat beneran upload
+- Buat gambar, dipake $\_FILES + move_uploaded_file() buat beneran upload
   filenya ke folder uploads/, terus path lokalnya (bukan url) yang disimpen
   ke atribut gambar
 - Tambah/update lewat form HTML biasa, hapus & cari lewat link doang
@@ -96,5 +104,73 @@ Buat versi PHP-nya agak beda karena web, jadi:
 
 ## Dokumentasi
 
-Screenshot/screenrecord bukti tiap bahasa jalan ada di folder
-`Dokumentasi/`.
+### C++
+
+**Run + Tambah Data**
+![Tambah Data C++](Dokumentasi/CPP/run+ADD.png)
+
+**Tampilkan Data**
+![Tampilkan Data C++](Dokumentasi/CPP/tampil.png)
+
+**Update Data**
+![Update Data C++](Dokumentasi/CPP/update.png)
+
+**Hapus Data**
+![Hapus Data C++](Dokumentasi/CPP/hapus.png)
+
+**Cari Data**
+![Cari Data C++](Dokumentasi/CPP/cari.png)
+
+### Java
+
+**Run + Tambah Data**
+![Tambah Data Java](Dokumentasi/Java/run+ADD.png)
+
+**Tampilkan Data**
+![Tampilkan Data Java](Dokumentasi/Java/tampil.png)
+
+**Update Data**
+![Update Data Java](Dokumentasi/Java/update.png)
+
+**Hapus Data**
+![Hapus Data Java](Dokumentasi/Java/hapus.png)
+
+**Cari Data**
+![Cari Data Java](Dokumentasi/Java/cari.png)
+
+### Python
+
+**Run + Tambah Data**
+![Tambah Data Python](Dokumentasi/Python/run+ADD.png)
+
+**Tampilkan Data**
+![Tampilkan Data Python](Dokumentasi/Python/tampil.png)
+
+**Update Data**
+![Update Data Python](Dokumentasi/Python/update.png)
+
+**Hapus Data**
+![Hapus Data Python](Dokumentasi/Python/hapus.png)
+
+**Cari Data**
+![Cari Data Python](Dokumentasi/Python/cari.png)
+
+### PHP
+
+**Run + Tambah Data**
+![Run PHP](Dokumentasi/PHP/run1.png)
+![Tampilan Web](Dokumentasi/PHP/run2.png)
+![Tambah Data PHP](Dokumentasi/PHP/add.png)
+
+**Tampilkan Data**
+![Tampilkan Data PHP](Dokumentasi/PHP/tampil.png)
+
+**Update Data**
+![Update Data PHP](Dokumentasi/PHP/update.png)
+
+**Hapus Data**
+![Tanda Hapus Data](Dokumentasi/PHP/hapus1.png)
+![Data Terhapus](Dokumentasi/PHP/hapus2.png)
+
+**Cari Data**
+![Cari Data PHP](Dokumentasi/PHP/cari.png)
