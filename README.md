@@ -107,82 +107,82 @@ Buat versi PHP-nya agak beda karena web, jadi:
 <details>
 <summary><b>C++</b> (klik buat lihat)</summary>
 
-**Run + Tambah Data**
-<img src="Dokumentasi/CPP/run+ADD.png" width="600">
+<p><b>Run + Tambah Data</b><br>
+<img src="Dokumentasi/CPP/run+ADD.png" width="600"></p>
 
-**Tampilkan Data**
-<img src="Dokumentasi/CPP/tampil.png" width="600">
+<p><b>Tampilkan Data</b><br>
+<img src="Dokumentasi/CPP/tampil.png" width="600"></p>
 
-**Update Data**
-<img src="Dokumentasi/CPP/update.png" width="600">
+<p><b>Update Data</b><br>
+<img src="Dokumentasi/CPP/update.png" width="600"></p>
 
-**Hapus Data**
-<img src="Dokumentasi/CPP/hapus.png" width="600">
+<p><b>Hapus Data</b><br>
+<img src="Dokumentasi/CPP/hapus.png" width="600"></p>
 
-**Cari Data**
-<img src="Dokumentasi/CPP/cari.png" width="600">
+<p><b>Cari Data</b><br>
+<img src="Dokumentasi/CPP/cari.png" width="600"></p>
 
 </details>
 
 <details>
 <summary><b>Java</b> (klik buat lihat)</summary>
 
-**Run + Tambah Data**
-<img src="Dokumentasi/Java/run+ADD.png" width="600">
+<p><b>Run + Tambah Data</b><br>
+<img src="Dokumentasi/Java/run+ADD.png" width="600"></p>
 
-**Tampilkan Data**
-<img src="Dokumentasi/Java/tampil.png" width="600">
+<p><b>Tampilkan Data</b><br>
+<img src="Dokumentasi/Java/tampil.png" width="600"></p>
 
-**Update Data**
-<img src="Dokumentasi/Java/update.png" width="600">
+<p><b>Update Data</b><br>
+<img src="Dokumentasi/Java/update.png" width="600"></p>
 
-**Hapus Data**
-<img src="Dokumentasi/Java/hapus.png" width="600">
+<p><b>Hapus Data</b><br>
+<img src="Dokumentasi/Java/hapus.png" width="600"></p>
 
-**Cari Data**
-<img src="Dokumentasi/Java/cari.png" width="600">
+<p><b>Cari Data</b><br>
+<img src="Dokumentasi/Java/cari.png" width="600"></p>
 
 </details>
 
 <details>
 <summary><b>Python</b> (klik buat lihat)</summary>
 
-**Run + Tambah Data**
-<img src="Dokumentasi/Python/run+ADD.png" width="600">
+<p><b>Run + Tambah Data</b><br>
+<img src="Dokumentasi/Python/run+ADD.png" width="600"></p>
 
-**Tampilkan Data**
-<img src="Dokumentasi/Python/tampil.png" width="600">
+<p><b>Tampilkan Data</b><br>
+<img src="Dokumentasi/Python/tampil.png" width="600"></p>
 
-**Update Data**
-<img src="Dokumentasi/Python/update.png" width="600">
+<p><b>Update Data</b><br>
+<img src="Dokumentasi/Python/update.png" width="600"></p>
 
-**Hapus Data**
-<img src="Dokumentasi/Python/hapus.png" width="600">
+<p><b>Hapus Data</b><br>
+<img src="Dokumentasi/Python/hapus.png" width="600"></p>
 
-**Cari Data**
-<img src="Dokumentasi/Python/cari.png" width="600">
+<p><b>Cari Data</b><br>
+<img src="Dokumentasi/Python/cari.png" width="600"></p>
 
 </details>
 
 <details>
 <summary><b>PHP</b> (klik buat lihat)</summary>
 
-**Run + Tambah Data**
-<img src="Dokumentasi/PHP/run1.png" width="600">
-<img src="Dokumentasi/PHP/run2.png" width="600">
-<img src="Dokumentasi/PHP/add.png" width="600">
+<p><b>Run + Tambah Data</b><br>
+<img src="Dokumentasi/PHP/run1.png" width="600"><br>
+<img src="Dokumentasi/PHP/run2.png" width="600"><br>
+<img src="Dokumentasi/PHP/add.png" width="600"></p>
 
-**Tampilkan Data**
-<img src="Dokumentasi/PHP/tampil.png" width="600">
+<p><b>Tampilkan Data</b><br>
+<img src="Dokumentasi/PHP/tampil.png" width="600"></p>
 
-**Update Data**
-<img src="Dokumentasi/PHP/update.png" width="600">
+<p><b>Update Data</b><br>
+<img src="Dokumentasi/PHP/update.png" width="600"></p>
 
-**Hapus Data**
-<img src="Dokumentasi/PHP/hapus1.png" width="600">
-<img src="Dokumentasi/PHP/hapus2.png" width="600">
+<p><b>Hapus Data</b><br>
+<img src="Dokumentasi/PHP/hapus1.png" width="600"><br>
+<img src="Dokumentasi/PHP/hapus2.png" width="600"></p>
 
-**Cari Data**
-<img src="Dokumentasi/PHP/cari.png" width="600">
+<p><b>Cari Data</b><br>
+<img src="Dokumentasi/PHP/cari.png" width="600"></p>
 
 </details>
